@@ -2,9 +2,7 @@
 
 在中国不同的地理位置访问国外不同位置的服务器速度也不一样。以下为数据参考：
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png)
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png)
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\msohtmlclip1\01\clip_image003.png)![](file:///C:\Users\Administrator\AppData\Local\Temp\msohtmlclip1\01\clip_image004.png)![](file:///C:\Users\Administrator\AppData\Local\Temp\msohtmlclip1\01\clip_image005.png)
+![](/assets/clip_image002.jpg)![](/assets/clip_image004.jpg)![](/assets/clip_image005.jpg)
 
