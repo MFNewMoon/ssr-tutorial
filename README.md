@@ -6,7 +6,7 @@
 
 ## macOS使用Shadowsocks设置教程
 
-[macOS下安装配置Shadowsocks使用教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/3-macos-settings.md)
+[macOS下安装配置Shadowsocks使用教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/3-macos-settings.md) 
 
 ## iOS使用Shadowsocks设置教程
 
