@@ -8,9 +8,9 @@
 
 4、一年内免费维护
 
-4、VPS成本
+4、VPS成本\($19.99/year=133.4792人民币元\)
 
-![](file:///C:\Users\Administrator\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)
+
 
 总计价格预算：50+100+133=283rmb/yr
 
