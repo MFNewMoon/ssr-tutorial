@@ -7,4 +7,6 @@
 * [自己建梯子](zi-ji-jian-ti-zi.md)
 * [效果演示](xiao-guo-yan-shi.md)
 * [技术支持](ji-zhu-zhi-chi.md)
+* [使用教学](shi-yong-jiao-xue.md)
+  * [Windows使用Shadowsocks设置教程](shi-yong-jiao-xue/windowsshi-yong-shadowsocks-she-zhi-jiao-cheng.md)
 
