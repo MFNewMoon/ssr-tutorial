@@ -11,4 +11,5 @@
   * [Windows使用Shadowsocks设置教程](shi-yong-jiao-xue/windowsshi-yong-shadowsocks-she-zhi-jiao-cheng.md)
   * [macOS使用Shadowsocks设置教程](shi-yong-jiao-xue/macosshi-yong-shadowsocks-she-zhi-jiao-cheng.md)
   * [iOS使用Shadowsocks设置教程](shi-yong-jiao-xue/iosshi-yong-shadowsocks-she-zhi-jiao-cheng.md)
+  * Android 下Shadowsocks 设置方法
 

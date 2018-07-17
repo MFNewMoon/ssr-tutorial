@@ -31,7 +31,7 @@ _注意_：App Store上的APP是应用程式创作者维护，客户端不是由
 
 [![](https://camo.githubusercontent.com/6c59771ec7d66ebe735c48b3cecc5b0179e7dda0/68747470733a2f2f692e6c6f6c692e6e65742f323031372f31312f30322f353966613832306232356461362e6a706567)](https://camo.githubusercontent.com/6c59771ec7d66ebe735c48b3cecc5b0179e7dda0/68747470733a2f2f692e6c6f6c692e6e65742f323031372f31312f30322f353966613832306232356461362e6a706567)
 
-在您完成配置后请到Shadowrocket的Home界面点击第一个滑块以开启（紫色区域）\*
+在您完成配置后请到Shadowrocket的Home界面点击第一个滑块以开启（紫色区域）
 
 如需要关闭Shadowsocks，打开Shadowrocket的主页点击滑块即可关闭
 
