@@ -16,15 +16,15 @@ Shadowsocks-libev：[https](https://github.com/shadowsocks/shadowsocks-libev#ins
 ```
 {
 
-    "server":"服務器IP或域名",
+    "server":"服务器IP或域名",
 
-    "server_port":端口號,
+    "server_port":端口,
 
     "local_address": "127.0.0.1",
 
     "local_port":1080,
 
-    "password":"密碼",
+    "password":"密码",
 
     "timeout":300,
 
@@ -41,7 +41,6 @@ Python版客户端命令是sslocal，Shadowsocks-libev客户端命令为ss-local
 
 ```
 /usr/local/bin/sslocal -c /etc/shadowsocks.json -d start
-
 ```
 
 ### 4，安装代理链
@@ -50,7 +49,6 @@ Python版客户端命令是sslocal，Shadowsocks-libev客户端命令为ss-local
 
 ```
 sudo apt-get install proxychains
-
 ```
 
 编辑`/etc/proxychains.conf`
@@ -59,7 +57,6 @@ sudo apt-get install proxychains
 
 ```
 socks5 127.0.0.1 1080
-
 ```
 
 接着我们就可以直接用
@@ -84,7 +81,6 @@ sudo proxychains wget xxxx
 
 ```
 lsof –i:1080
-
 ```
 
 杀相应pid即可
